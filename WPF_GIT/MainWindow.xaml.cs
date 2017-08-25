@@ -19,8 +19,6 @@ namespace WPF_GIT
             MessageBox.Show("Hello");
             MessageBox.Show("Hey");
 
-            MessageBox.Show("Hey");
-
         }
     }
 }
